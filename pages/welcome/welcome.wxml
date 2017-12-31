@@ -1,0 +1,8 @@
+<!-- wxml是编写小程序的骨架 -->
+<view class="container">
+    <image class="uesr-avatar" src="/images/4.png"></image>
+    <text class="user-name">HELLO</text>
+    <view class="moto-container" bindtap="onTap">
+        <text class="moto">开启小程序之旅</text>
+    </view>
+</view>
